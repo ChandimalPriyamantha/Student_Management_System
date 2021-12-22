@@ -1,0 +1,24 @@
+CREATE DATABASE studentdb;
+USE studentdb;
+CREATE TABLE student_dt2 (
+    Index_number varchar(45) NOT NULL,
+    First_name varchar(45) NOT NULL,
+    Last_name varchar(45),
+    Gender varchar(45),
+    Adress varchar(45),
+    Phone_number varchar(45),
+    Email varchar(45),
+    Class_type varchar (45),
+    Academic_year varchar(45),
+    Mark varchar(45),
+    Comment varchar(45),
+    Date varchar(45),
+    PRIMARY KEY (Index_number)
+);
+CREATE TABLE class_type (
+      No varchar(45) NOT NULL,
+      Class_type varchar (45),
+      PRIMARY KEY (No) 
+);
+
+

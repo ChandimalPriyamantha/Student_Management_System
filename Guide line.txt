@@ -1,0 +1,11 @@
+How to install Student Management System.
+  01.You should install java Version 8 (build 1.8.0_281-b09)
+  02.You should install mysql database version 5.6 /open/ copy mysql code and past.
+  03.you should save your System package in your computer
+  04.you should creat a Image file like this(E:\Student\Image)
+
+This link is very important - https://imresizer.com/
+The image which you enter should be width = 145 and height = 115. So, you can change your image using above link.
+
+
+Thank you very much....
