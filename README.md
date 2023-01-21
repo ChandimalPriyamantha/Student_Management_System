@@ -1,2 +1,2 @@
-# Student_Management_System_JAVA
+# Student_Management_System
 This System is a student managment system. 
